@@ -1,2 +1,1 @@
-#bjfeb
-#i am best
+echo"i am best"
